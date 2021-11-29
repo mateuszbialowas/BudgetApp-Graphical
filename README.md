@@ -18,7 +18,7 @@ Założenie projektu zostało takie samo, natomiast zmieniła się technologia p
 Wykorzystałem LocalStorage jako bazę danych. Teraz na każdym nowym urządzeniu po uruchomieniu aplikacji baza danych zostanie zrestartowana. 
 
 ## Instrukcja instalacji (komplet wiedzy potrzebnej użytkownikowi do zainstalowania aplikacji).
-Pogranie folderu z aplikacją. Uruchomienie pliku index.html w przeglądarce.
+Pobranie folderu z aplikacją. Uruchomienie pliku index.html w przeglądarce.
 ## Instrukcja użytkownika (komplet wiedzy potrzebnej użytkownikowi do efektywnego korzystania z aplikacji).
 Korzystamy z aplikacji z pomocą klawiatury(wpisując dane do formularza), oraz myszki do edytkowania, usuwania transakcji.
 ## Wnioski
