@@ -8,7 +8,6 @@ Aplikacja konsolowa do zarządzania budżetem domowym z wykorzystaniem języka p
 - usuwanie transakcji
 - edytowanie transakcji
 - wyświetlanie wszystkich transakcji
-- wyświetlanie 10 ostatnich transakcji
 - obliczanie sumy wszystkich transakcji
 
 ## Opis realizacji zmiany warstwy prezentacji z wyszczególnieniem oddzielenia od niej logiki aplikacji
