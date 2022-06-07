@@ -1,7 +1,7 @@
 # Budget App
 
 ## Opis projektu (główne założenia, jaki jest cel i istota aplikacji)
-Aplikacja konsolowa do zarządzania budżetem domowym z wykorzystaniem języka programowania JavaScript
+Aplikacja do zarządzania budżetem domowym z wykorzystaniem języka programowania JavaScript
 
 ## Opis funkcjonalności (wymienione główne funkcjonalności oraz ich omówienie)
 - dodawanie transakcji
